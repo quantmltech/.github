@@ -1,5 +1,7 @@
 # QuantML
 
+**Predict with Precision. Trade with Reason**
+
 ## Overview
 
 **Redefining Quantitative Trading Through AI-Native Infrastructure**
@@ -29,15 +31,3 @@ $44B flowed into quant funds H1 2025. AI strategies now drive 40% of hedge fund 
 Building the AI-native infrastructure layer powering next-generation quantitative finance—replacing legacy terminals with a unified reasoning platform that operates like an entire research department, 100x faster and fully explainable.
 
 📩 quantml.tech@gmail.com | quantml.tech
-
-## Company Information
-
-- **Website:** https://quantml.tech/
-- **Phone:** 8534880680
-- **Industry:** Financial Services
-- **Company size:** 2-10 employees
-- **Headquarters:** Bhopal, Madhya Pradesh
-- **Founded:** 2025
-- **Specialties:** Quant Finance, Machine Learning, and AI For Finance Quant ML
-
-**Predict with Precision. Trade with Reason**
