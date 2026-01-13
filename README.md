@@ -1,86 +1,43 @@
-<div align="center">
-  <h1>QuantML</h1>
-  <p><b>AI-Native Infrastructure for Institutional Quantitative Trading</b></p>
+# QuantML
 
----
+## Overview
 
-## The Quantitative Trading Crisis
+**Redefining Quantitative Trading Through AI-Native Infrastructure**
 
-**Institutional quant strategies fail catastrophically:**
+QuantML is pioneering institutional trading technology with the financial industry's first knowledge-embedded AI platform—combining machine learning with fundamental financial principles to deliver consistent, explainable, regulatory-compliant alpha generation.
 
-| Problem | Impact | Evidence |
-|---------|--------|----------|
-| **Alpha Decay** | ρ=-0.63 w/ ETF growth | $44B quant inflows H1 2025 |
-| **Regime Fragility** | Bull models fail in Bears | 40% strategy failures |
-| **Regulatory Risk** | Black-box AI rejected | FINRA 3110/3120, MiFID II |
-| **Workflow Friction** | Weeks-long cycles | $400B AI infra spend by 2027 |
+## The Challenge
 
----
+Quantitative trading faces unprecedented pressure. Traditional models show accelerated alpha decay (63% correlation with ETF proliferation post-2015), regime transitions trigger catastrophic failures (2008, COVID, 2022), and regulators demand explainability under FINRA 3110/3120 and MiFID II—rejecting opaque black-box systems.
 
-## QuantML Solution
+## Our Solution
 
-**Knowledge-embedded AI platform delivering:**
+**Regime-Aware Intelligence** — Automatically detects Bull, Neutral, Bear, and Crisis states, dynamically selecting strategies validated for each regime to maintain performance during critical transitions.
 
-### **Regime-Aware Intelligence**
+**Constraint-Satisfying Architecture** — Embeds financial first principles—no-arbitrage conditions, liquidity bounds, volatility clustering—into neural networks, ensuring predictions remain valid under unprecedented conditions.
 
-### **Constraint-Satisfying Decisions**
-- No-arbitrage conditions embedded
-- Liquidity + volatility constraints  
-- Portfolio risk limits enforced
+**Multi-AI Consensus Engine** — Ten specialized models debate adversarially, requiring 99% confidence thresholds before execution while generating regulatory-compliant audit trails.
 
-### **Multi-AI Consensus** 
-10 models → Adversarial debate → 99% confidence + audit trails
+**Unified Platform** — Collapses fragmented workflows (research → backtesting → risk → execution) into one reasoning engine, accelerating cycles from weeks to hours.
 
-### **Unified Platform**
-Research → Backtest → Risk → Execution (100x faster)
+## Market Context
 
----
+$44B flowed into quant funds H1 2025. AI strategies now drive 40% of hedge fund volume. Institutions committed $400B toward AI infrastructure through 2027.
 
-## Technical Stack
+## Our Vision
 
+Building the AI-native infrastructure layer powering next-generation quantitative finance—replacing legacy terminals with a unified reasoning platform that operates like an entire research department, 100x faster and fully explainable.
 
-**Production-ready:** Python 3.10, PyTorch 2.1, Kubernetes, NVIDIA H100s
+📩 quantml.tech@gmail.com | quantml.tech
 
----
+## Company Information
 
-## Market Opportunity
+- **Website:** https://quantml.tech/
+- **Phone:** 8534880680
+- **Industry:** Financial Services
+- **Company size:** 2-10 employees
+- **Headquarters:** Bhopal, Madhya Pradesh
+- **Founded:** 2025
+- **Specialties:** Quant Finance, Machine Learning, and AI For Finance Quant ML
 
-
----
-
-## Roadmap
-
-| Phase | Status | Milestone |
-|-------|--------|-----------|
-| Research | ✅ Done | 130+ papers validated |
-| Architecture | ✅ Done | 6-layer stack |
-| Code | ✅ Done | Production examples |
-| MVP | Q1 2026 | First pilots |
-| Production | Q2 2026 | 5 customers |
-| Scale | Q3-Q4 2026 | 50+ customers |
-
----
-
-## Team
-
-**Founders** — Shamqiue Khan & Jashwant Maddala
-
----
-
-** Contact :** quantml.tech@gmail.com
-
----
-
-## Get Involved
-
-**🤝 Pilot Program** (Hedge funds/Prop desks)
-- Free research tier
-- Priority features
-- Co-development
-
-**🛠 Contribute**
-```bash
-git clone https://github.com/quantml-tech/quantml
-pip install -r requirements.txt
-<div align="center"> <table> <tr> <td><b>🌐 Website</b></td> <td><a href="https://quantml.tech">quantml.tech</a></td> </tr> <tr> <td><b>📧 Email</b></td> <td><a href="mailto:quantml.tech@gmail.com">quantml.tech@gmail.com</a></td> </tr> <tr> <td><b>🐦 Twitter</b></td> <td><a href="https://twitter.com/quantml_tech">@quantml_tech</a></td> </tr> <tr> <td><b>💼 LinkedIn</b></td> <td><a href="https://linkedin.com/company/quantml">QuantML</a></td> </tr> </table> </div>
-<div align="center"> <p><b>QuantML</b> — AI infrastructure for next-generation quantitative finance</p> <p><i>© 2026 QuantML Technologies, Inc. Palo Alto, CA</i></p> </div> 
+**Predict with Precision. Trade with Reason**
