@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Quant ML bg 2.png" alt="QuantML Banner" width="100%">
+</div>
+
 # QuantML
 
 **Predict with Precision. Trade with Reason**
